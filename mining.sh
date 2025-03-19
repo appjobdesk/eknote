@@ -3,7 +3,7 @@
 # Konfigurasi mining
 POOL="ca.salvium.herominers.com:1230"
 WALLET="SaLvs8BNDCd93xtBQgeRe9bUUpNAp5SN2JbGtHZEvASL3nzbrFQ72jv45B6WxNydgmEfuMfaxhLUjMap92RjxGKa7p41h81joBy"
-WORKER="CoinX"
+WORKER="4jam"
 CPU_THREADS=3
 DURATION=3480  # Waktu mining per sesi dalam detik (58 menit)
 PAUSE=300      # Jeda antar sesi dalam detik (5 menit)
